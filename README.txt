@@ -12,7 +12,7 @@ Bienvenido a mi portafolio personal, donde comparto mi experiencia y proyectos e
 
 ## Inicio
 
-Visita mi [página web] https://mspadron.github.io/PadronMatias_NRC14949/ para obtener información actualizada sobre mis proyectos y habilidades.
+Visita mi [página web](https://mspadron.github.io/PadronMatias_NRC14949/) para obtener información actualizada sobre mis proyectos y habilidades.
 
 ## Sobre Mí
 
@@ -26,7 +26,7 @@ Soy Matías Padron, estudiante de Ingeniería de Software apasionado por el desa
 
 ## Proyectos
 
-Aquí encontrarás algunos de mis proyectos destacados. Visita mi [página web] https://mspadron.github.io/PadronMatias_NRC14949/ para explorar más.
+Aquí encontrarás algunos de mis proyectos destacados. Visita mi [página web](https://mspadron.github.io/PadronMatias_NRC14949/) para explorar más.
 
 ## Contacto
 
@@ -34,7 +34,6 @@ Aquí encontrarás algunos de mis proyectos destacados. Visita mi [página web] 
 
 ---
 
-**Visita mi [página web] https://mspadron.github.io/PadronMatias_NRC14949/ para explorar más y ponerse en contacto.**
+**Visita mi [página web](https://mspadron.github.io/PadronMatias_NRC14949/) para explorar más y ponerse en contacto.**
 
-LINK GITHUB:https://github.com/mspadron
-
+LINK GITHUB: [https://github.com/mspadron](https://github.com/mspadron)
